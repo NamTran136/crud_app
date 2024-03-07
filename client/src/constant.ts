@@ -1,0 +1,1 @@
+export const BASE_URL = "https://localhost:7219/api/Products";
